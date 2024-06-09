@@ -10,7 +10,7 @@
   "exports": "./dist/index.js",
   "main": "./dist/index.js",
   "bin": {
-    "gemai": "./dist/index.js"
+    "mavrick": "./dist/index.js"
   },
   "preferGlobal": true,
   "license": "MIT",
